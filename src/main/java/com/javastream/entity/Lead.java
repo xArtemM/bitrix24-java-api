@@ -140,4 +140,53 @@ public class Lead {
 
     @SerializedName("WEB")
     private List<Website> websites;
+
+    @SerializedName("UF_CRM_1628516747563")
+    private String deptAmount;
+
+    @SerializedName("UF_CRM_1632893742850")
+    private String city;
+
+    @SerializedName("UF_CRM_1636695238766")
+    private String inWorkTime;
+
+    @SerializedName("UF_CRM_1636947235824")
+    private String abc;
+
+    @SerializedName("UF_CRM_1637043378841")
+    private String cityNew;
+
+    @SerializedName("UF_CRM_1647944048745")
+    private String meetMakeTime;
+
+    @SerializedName("UF_CRM_1647944069364")
+    private String meetCondTime;
+
+    @SerializedName("UF_CRM_1647944088430")
+    private String conditionTime;
+
+    @SerializedName("UF_CRM_1647944115010")
+    private String prePaidTime;
+
+    @SerializedName("UF_CRM_1647945789259")
+    private String consType;
+
+    @SerializedName("UF_CRM_1647949677808")
+    private String clientFolderLink;
+
+    @SerializedName("UF_CRM_1647944670632")
+    private String meetTime;
+
+    @SerializedName("UF_CRM_1648533741752")
+    private String dealType;
+
+    @SerializedName("UF_CRM_1654512718")
+    private String respManager;
+
+    @SerializedName("UF_CRM_1654512743")
+    private String meetMakeManager;
+
+    @SerializedName("UF_CRM_1654512758")
+    private String meetCondManager;
+
 }
