@@ -189,4 +189,7 @@ public class Lead {
     @SerializedName("UF_CRM_1654512758")
     private String meetCondManager;
 
+    @SerializedName("UF_CRM_1690206118757")
+    private String prepayment;
+
 }
