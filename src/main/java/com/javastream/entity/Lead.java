@@ -192,4 +192,7 @@ public class Lead {
     @SerializedName("UF_CRM_1690206118757")
     private String prepayment;
 
+    @SerializedName("UF_CRM_1690439728367")
+    private String exclude;
+
 }
