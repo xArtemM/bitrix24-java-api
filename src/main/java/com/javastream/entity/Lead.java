@@ -195,4 +195,10 @@ public class Lead {
     @SerializedName("UF_CRM_1690439728367")
     private String exclude;
 
+    @SerializedName("UF_CRM_1691503016139")
+    private String celevoy;
+
+    @SerializedName("UF_CRM_1691502588147")
+    private String brakReason;
+
 }
